@@ -14,7 +14,3 @@ Live Demo: https://clarestar-c.github.io/Quote-Generator/
 * Vite
 * GitHub Pages
 
-## Run Locally
-```bash
-npm install
-npm run dev
